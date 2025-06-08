@@ -1,5 +1,4 @@
-# AI-Project
-# AI Project 2: Robot Navigation using Search Algorithms and Q-Learning
+# AI Project : Robot Navigation using Search Algorithms and Q-Learning
 
 This project explores multiple search and reinforcement learning algorithms applied to a **Robot Navigation Problem** in a grid-based environment. Implemented in Python using a Jupyter Notebook, the project visualizes and compares the performance of various strategies for navigating from a start point to a goal.
 
