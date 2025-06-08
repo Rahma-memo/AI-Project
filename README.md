@@ -6,7 +6,6 @@ This project explores multiple search and reinforcement learning algorithms appl
 
 - `AI_project_2.ipynb` - Main notebook with implementations and visualizations.
 - `README.md` - Project overview (this file).
-- `images/` (optional) - Folder to store output visualizations if you export them.
 
 ## 🚀 Algorithms Implemented
 
